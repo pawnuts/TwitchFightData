@@ -1,0 +1,11 @@
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\bin\Debug\netcoreapp2.0\SaltyIRC.deps.json
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\bin\Debug\netcoreapp2.0\SaltyIRC.runtimeconfig.json
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\bin\Debug\netcoreapp2.0\SaltyIRC.runtimeconfig.dev.json
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\bin\Debug\netcoreapp2.0\SaltyIRC.dll
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\bin\Debug\netcoreapp2.0\SaltyIRC.pdb
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.csprojResolveAssemblyReference.cache
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.csproj.CoreCompileInputs.cache
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.AssemblyInfoInputs.cache
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.AssemblyInfo.cs
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.dll
+c:\users\blackteanosugar\source\repos\SaltyIRC\SaltyIRC\obj\Debug\netcoreapp2.0\SaltyIRC.pdb
